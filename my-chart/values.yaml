@@ -9,4 +9,5 @@ containerName: "container-0"
 containerPort: 8080
 nameOverride: ""
 fullnameOverride: ""
+servicePort: 80
 
