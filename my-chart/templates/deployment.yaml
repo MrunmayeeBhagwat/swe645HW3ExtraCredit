@@ -36,3 +36,4 @@ spec:
       schedulerName: default-scheduler
       securityContext: {}
       terminationGracePeriodSeconds: 30
+{{- .Files.Get "service.yaml" | nindent 2 }}
