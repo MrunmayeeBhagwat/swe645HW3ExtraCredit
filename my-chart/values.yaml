@@ -1,6 +1,6 @@
 # values.yaml
 image:
-  repository: mrunmayee96/hw3final
+  repository: yash0201/sweextracredit
   tag: latest
 
 replicaCount: 3
